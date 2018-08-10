@@ -21,4 +21,4 @@ class Table_group
 @tv_show
   end
   
-  
+  rochelle=
