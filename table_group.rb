@@ -4,3 +4,5 @@ class Table_group
     @food = food 
     @siblings = siblings 
   end
+  
+  def base_traits
