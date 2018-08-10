@@ -6,7 +6,7 @@ class Table_group
   end
   
   def base_traits
-    puts "All are in Kode with Klossy.All are girls.All love food "
+    puts "All are in Kode with Klossy.All are girls.All love food.We all need oxygen."
   end
   
   def do_you_have_siblings
@@ -25,7 +25,5 @@ class Table_group
   gabby = Table_group.new("Gossip Girl" , "Ham" , "6")
   adielle = Table_group.new("Gossip Girl" , "French Fries" , "3")
 
-
-  adielle.base_traits
   
 end
