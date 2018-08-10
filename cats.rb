@@ -15,6 +15,6 @@ end
 
 tiger = Cats.new("Oh , it's super snazzy","pretty fuzzy","super duper mean", "absoultely not")
 
-garfield= Cats.new("ewwwwww", "fuzzy","well....he kinda hates Mondays","noooo")
+garfield= Cats.new("ewwwwww", "fuzzy","well....he kinda hates Mondays","ewwwwww")
 
 puts  garfield.is_it_cute
