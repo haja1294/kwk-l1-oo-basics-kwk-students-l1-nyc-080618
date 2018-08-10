@@ -1,2 +1,2 @@
 class Table_group 
-  def initalize ()
+  def initalize (tv show , food, siblings )
