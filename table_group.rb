@@ -10,3 +10,9 @@ class Table_group
   end
   
   def do_you_have_siblings
+    @siblings
+  end
+  
+  def what_is_your_favorite_food 
+ @food
+  end
