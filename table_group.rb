@@ -26,6 +26,6 @@ class Table_group
   adielle = Table_group.new("Gossip Girl" , "French Fries" , "3")
 end 
 
-  
+  adielle.base_traits
   
   
