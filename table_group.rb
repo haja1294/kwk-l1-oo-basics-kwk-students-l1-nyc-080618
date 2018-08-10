@@ -24,3 +24,8 @@ class Table_group
   rochelle = Table_group.new("Game of Thrones", "Sushi", "3")
   gabby = Table_group.new("Gossip Girl" , "Ham" , "6")
   adielle = Table_group.new("Gossip Girl" , "French Fries" , "3")
+end 
+
+  
+  
+  
