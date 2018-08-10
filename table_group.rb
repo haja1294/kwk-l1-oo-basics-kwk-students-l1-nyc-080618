@@ -16,3 +16,9 @@ class Table_group
   def what_is_your_favorite_food 
  @food
   end
+  
+  def what_is_your_favorite_tv_show 
+@tv_show
+  end
+  
+  
