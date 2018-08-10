@@ -9,4 +9,4 @@ class Table_group
     puts "All are in Kode with Klossy.All are girls.All love food "
   end
   
-  def 
+  def do_you_have_siblings
