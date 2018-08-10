@@ -8,7 +8,7 @@ class Cats
   end 
   
  def is_it_cute 
- 
+ @cute 
  end
   
 end 
@@ -16,3 +16,5 @@ end
 tiger = Cats.new("Oh , it's super snazzy","pretty fuzzy","super duper mean", "absoultely not")
 
 garfield= Cats.new("ewwwwww", "fuzzy","well....he kinda hates Mondays")
+
+puts  garfield
