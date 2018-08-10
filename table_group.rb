@@ -3,3 +3,4 @@ class Table_group
     @tv_show = tv show 
     @food = food 
     @siblings = siblings 
+  end
