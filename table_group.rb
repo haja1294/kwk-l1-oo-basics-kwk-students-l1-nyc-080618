@@ -32,7 +32,7 @@ puts Rochelle.do_you_have_siblings
 puts Rochelle.what_is_your_favorite_tv_show
 puts Rochelle.what_is_your_favorite_food
 
-gabby.base_traits
+Gabby.base_traits
 puts gabby.do_you_have_siblings
 puts gabby.what_is_your_favorite_food
 puts gabby.what_is_your_favorite_tv_show
