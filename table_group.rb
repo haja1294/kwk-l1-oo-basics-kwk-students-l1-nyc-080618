@@ -6,3 +6,7 @@ class Table_group
   end
   
   def base_traits
+    puts "All are in Kode with Klossy.All are girls.All love food "
+  end
+  
+  
