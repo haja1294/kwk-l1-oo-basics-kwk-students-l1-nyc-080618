@@ -28,4 +28,4 @@ class Table_group
 
   adielle.base_traits
   
-  
+end
