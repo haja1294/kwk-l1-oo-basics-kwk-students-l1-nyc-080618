@@ -1,5 +1,5 @@
 class Table_group 
-  def initalize (tvshow , food, siblings)
+  def initalize(tvshow , food, siblings)
     @tv_show = tvshow 
     @food = food 
     @siblings = siblings 
