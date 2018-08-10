@@ -6,7 +6,11 @@ class Cats
     @mean = mean 
     @cuddly = cuddly 
   end 
-  
+
+def base_traits 
+puts "It is an obligate carnivore.it has 30 teeth.It has curved claws."
+end
+
  def is_it_cute 
  @cute 
  end
@@ -25,11 +29,14 @@ class Cats
   
 end 
 
-tiger = Cats.new("Oh , it's super snazzy","pretty fuzzy","super duper mean", "absoultely not")
+tiger = Cats.new("Oh it's super snazzy","pretty fuzzy","super duper mean", "absoultely not")
 
 garfield = Cats.new("ewwwwww", "fuzzy","well....he kinda hates Mondays","ewwwwww")
 
-puts garfield.is_it_cute
-puts garfield.is_it_fuzzy
-puts garfield.is_it_mean
-puts garfield.is_it_cuddly
+
+garfield.base_traits
+tiger.base_traits
+
+
+
+
