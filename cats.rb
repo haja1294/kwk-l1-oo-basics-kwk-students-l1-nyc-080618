@@ -8,6 +8,7 @@ class Cats
   end 
   
  def is_it_cute 
+ 
  end
   
 end 
