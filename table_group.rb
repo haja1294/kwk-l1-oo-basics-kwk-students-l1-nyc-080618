@@ -1,5 +1,5 @@
 class Table_group 
-  def initalize (tv show , food, siblings )
+  def initalize (tv show , food, siblings)
     @tv_show = tv show 
     @food = food 
     @siblings = siblings 
@@ -24,7 +24,7 @@ class Table_group
   rochelle = Table_group.new("Game of Thrones", "Sushi", "3")
   gabby = Table_group.new("Gossip Girl" , "Ham" , "6")
   adielle = Table_group.new("Gossip Girl" , "French Fries" , "3")
-end 
+
 
   adielle.base_traits
   
